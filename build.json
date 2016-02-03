@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ZMR 250",
+    "esc": "Favorite FVT LittleBee 30A",
+    "motor": "Cobra/CM-2206-2100kv",
+    "fc": "Seriously-Pro/SP-Racing-F3-(Deluxe)",
+    "prop": [
+      "Gemfan/6x4.5-CFN-MR"
+    ],
+    "arm": "THug-FRAMES/ZMR250-THuG-ARMS-5mm",
+    "battery": [
+      "Tattu/4S-1800mAh-75C-Lipo-Battery-Pack"
+    ],
+    "osd": "Micro MinimOSD",
+    "receiver": "",
+    "flightcam": "Sony HS1177 FPV CAMERA",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": "Demon-Frames/CORE-v2-Mini-PDB-–-Filtered-Power-for-Racers"
+  },
+  "version": 1
 }
