@@ -1,18 +1,24 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Dquad RefleX 5\"",
+    "esc": "Flyduino KISS ESC 2-5S 24A race edition",
+    "motor": "Rotorgeeks/2204-2300kv",
+    "fc": "Flyduino KISS FC - 32bit Flight Controller",
+    "prop": [
+      "HQProp/5x4x3-FG-DD"
+    ],
+    "arm": "Dquad RefleX 5\" Arm",
+    "battery": [
+      "Tattu/4S-1550mAh-45c-Lipo-Battery",
+      "Tattu/4S-1300mAh-75C-Lipo-Battery-Pack"
+    ],
+    "osd": "Mico MinimOSD",
+    "receiver": "FrSky/TFR4SB",
+    "flightcam": "UnknownManufacturer/multirotorparts/Sony-HS1177-FPV-CAMERA",
+    "hqcam": "GoPro/HERO4-Session",
+    "videotx": "TBS UNIFY PRO 5G8",
+    "blackbox": "",
+    "voltagereg": "Pololu/D24V6F5"
+  },
+  "version": 1
 }
