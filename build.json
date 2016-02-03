@@ -1,18 +1,24 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Dquad iniMini-H quad 4\"",
+    "esc": "Rotorgeeks/RG20",
+    "motor": "Rotorgeeks/2205-2700kv",
+    "fc": "AbuseMark/Acro-Naze32-rev5",
+    "prop": [
+      "HQProp 4x4x3 Bullnose Props"
+    ],
+    "arm": "UnknownManufacturer/multirotorparts/Dquad-iniMini-H-4\"-arm",
+    "battery": [
+      "Tattu/4S-1550mAh-75c-Lipo-Battery",
+      "Tattu/4S-1050mAh-75c-Lipo-Battery"
+    ],
+    "osd": "Micro MinimOSD",
+    "receiver": "FrSky/TFR4SB",
+    "flightcam": "FatShark/700TVL-WDR-CMOS-Camera",
+    "hqcam": "GoPro/HERO4-Session",
+    "videotx": "Team BlackSheep TBS UNIFY 5.8GHz",
+    "blackbox": "",
+    "voltagereg": "Pololu/D24V6F5"
+  },
+  "version": 1
 }
