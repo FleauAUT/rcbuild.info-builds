@@ -12,10 +12,10 @@
       "Tattu/4S-1800mAh-75C-Lipo-Battery-Pack"
     ],
     "osd": "Micro MinimOSD",
-    "receiver": "",
+    "receiver": "FrSky/TFR4SB",
     "flightcam": "Sony HS1177 FPV CAMERA",
     "hqcam": "",
-    "videotx": "",
+    "videotx": "SkyZone TS5823 - 32 channel 5.8ghz video transmitter",
     "blackbox": "",
     "voltagereg": "Demon-Frames/CORE-v2-Mini-PDB-–-Filtered-Power-for-Racers"
   },
