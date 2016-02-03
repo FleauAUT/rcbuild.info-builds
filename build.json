@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Proper Drone PD130",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "DYS/1306-3100kv",
+    "fc": "AbuseMark/Acro-Naze32-rev6",
+    "prop": [
+      "HQProp Tri Blade 3x3 Ffberglass blend"
+    ],
+    "arm": "",
+    "battery": [
+      "Zippy/Compact-500mAh-3S-35C-Lipo-Pack"
+    ],
+    "osd": "",
+    "receiver": "FrSky/TFR8SB",
+    "flightcam": "Micro FPV Cam",
+    "hqcam": "",
+    "videotx": "TS5823 video transmitter",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
