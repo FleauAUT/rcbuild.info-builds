@@ -14,7 +14,7 @@
     ],
     "osd": "Mico MinimOSD",
     "receiver": "FrSky/TFR4SB",
-    "flightcam": "UnknownManufacturer/multirotorparts/Sony-HS1177-FPV-CAMERA",
+    "flightcam": "Sony-HS1177-FPV-CAMERA",
     "hqcam": "GoPro/HERO4-Session",
     "videotx": "TBS UNIFY PRO 5G8",
     "blackbox": "",
