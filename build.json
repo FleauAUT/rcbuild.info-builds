@@ -10,7 +10,8 @@
     "arm": "Dquad RefleX 5\" Arm",
     "battery": [
       "Tattu/4S-1550mAh-45c-Lipo-Battery",
-      "Tattu/4S-1300mAh-75C-Lipo-Battery-Pack"
+      "Tattu/4S-1300mAh-75C-Lipo-Battery-Pack",
+      "UnknownManufacturer/multirotorparts/MRP-4S-LiPo-battery-1500mAh"
     ],
     "osd": "Mico MinimOSD",
     "receiver": "FrSky/TFR4SB",
