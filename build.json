@@ -1,6 +1,6 @@
 {
   "config": {
-    "frame": "Dquad iniMini-H quad 4\"",
+    "frame": "Dquad iniMini-H quad 4",
     "esc": "Rotorgeeks/RG20",
     "motor": "Rotorgeeks/2205-2700kv",
     "fc": "AbuseMark/Acro-Naze32-rev5",
